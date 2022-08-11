@@ -2,6 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 [![Website Badge](https://img.shields.io/badge/-GLORIA_JOHN-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gloriajohn.com)](https://Altschoolassignment1.gloriajohn.repl.co) [![Twitter Badge](https://img.shields.io/twitter/follow/glowriiyajhon?style=social)](https://twitter.com/glowriiyajhon) [![Linkedin Badge](https://img.shields.io/badge/-GLORIA_JOHN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gloria-john-118731197/)](https://www.linkedin.com/in/gloria-john-118731197/) [![GitHub J-Gloria](https://img.shields.io/github/followers/j-gloria?label=follow&style=social)](https://github.com/J-Gloria)
+<p> <img src="https://komarev.com/ghpvc/?username=j-gloria&label=Profile%20views&color=0e75b6&style=flat" alt="J-Gloria" /> </p>
 
 
 **Here's a quick summary about me**:
