@@ -1,7 +1,7 @@
 # Hi, I'm Gloria John! 👋🏾
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-[![Website Badge](https://img.shields.io/badge/-GLORIA_JOHN-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gloriajohn.com)](https://Altschoolassignment1.gloriajohn.repl.co) [![Linkedin Badge](https://img.shields.io/badge/-GLORIA_JOHN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gloria_john)](https://www.linkedin.com/in/gloria-john-118731197/) [![Twitter Badge](https://img.shields.io/twitter/follow/glowriiyajhon?style=social)](https://twitter.com/glowriiyajhon) [![GitHub J-Gloria](https://img.shields.io/github/followers/j-gloria?label=follow&style=social)](https://github.com/J-Gloria)
+[![Website Badge](https://img.shields.io/badge/-GLORIA_JOHN-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gloriajohn.com)](https://Altschoolassignment1.gloriajohn.repl.co) [![Linkedin Badge](https://img.shields.io/badge/-GLORIA_JOHN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gloria-john-118731197/)](https://www.linkedin.com/in/gloria-john-118731197/) [![Twitter Badge](https://img.shields.io/twitter/follow/glowriiyajhon?style=social)](https://twitter.com/glowriiyajhon) [![GitHub J-Gloria](https://img.shields.io/github/followers/j-gloria?label=follow&style=social)](https://github.com/J-Gloria)
 
 
 **Here's a quick summary about me**:
